@@ -1,0 +1,60 @@
+.demoForm {
+    
+    width: 500px;
+	margin: auto;
+    border:none;
+    
+    
+   
+}
+.field{
+    
+    width:800px;
+    text-align:left;
+    
+    
+
+}
+.fluidButton{
+    color:blue;
+}
+
+.form-control{
+   width: 350px;
+   height: 25px;
+   margin-left: 25px;
+
+}
+.form-name-control{
+    width: 158px;
+    height: 25px;
+    margin-left: 25px;
+    
+ }
+
+.form-check{
+    text-align: left;
+    margin-left: -2px;
+}
+
+.assetForm{
+    background-color: white;
+    margin-left: 82px;
+    margin-right: 60px;
+}
+
+.assetTypes{
+    margin-left: 50px;
+}
+.assetTypes2{
+    margin-left: 40px;
+}
+.assetTypes3{
+    margin-left: 42px;
+}
+.confirm-check-label-ms-2{
+    margin-left: 10px;
+}
+.confirm-check-input{
+    margin-left: 70px;
+}
